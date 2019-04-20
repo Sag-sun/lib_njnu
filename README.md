@@ -1,2 +1,7 @@
-# lib_njnu
-Share documents of lecture and examination  
+# <center>资料共享计划<center>
+
+## 前言
+
+资料共享计划是为了帮助每位同学更好的学习，以及意向报考南京师范大学的同学，前期资料将以考研资料为主。
+
+
